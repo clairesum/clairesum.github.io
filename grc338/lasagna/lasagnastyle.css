@@ -1,0 +1,46 @@
+/*CSS DOCUMENT*/
+
+img {
+width: 100%;}
+
+body{
+    font-family: sans-serif;
+    margin: auto;
+    max-width: 50em;
+}
+
+h1{
+    margin-bottom: 0em;
+    text-transform: uppercase;
+    letter-spacing: 0.11em;
+    font-size: 1.6em;
+}
+
+h2{
+    font-style: italic;
+    color: orangered;
+    margin-top: 0.2em;
+    font-size: 1.3em;
+    letter-spacing: 0.08em;
+}
+
+.intro p{
+    font-size: 0.9em;
+    font-style: italic;
+    line-height: 1.4em;
+}
+
+h3{
+    letter-spacing: 0.1em;
+    font-size: 1em;
+    color: white;
+    background-color: orangered;
+}
+
+li{
+    font-size: 0.8em;
+    letter-spacing: 0.03em;
+    line-height: 1.5em;
+}
+
+
