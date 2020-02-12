@@ -1,0 +1,11 @@
+/*CSS DOCUMENT*/
+
+img {
+width: 100%;}
+
+body{
+    font-family: sans-serif;
+    margin: auto;
+    max-width: 50em;
+}
+/* I set this just to resize the image*/
