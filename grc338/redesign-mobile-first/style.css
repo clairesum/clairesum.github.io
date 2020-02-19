@@ -1,0 +1,89 @@
+/*CSS DOCUMENT*/
+
+img.logo {
+width: 50%;
+}
+
+img.noodle{
+    width: 100%;
+}
+
+body{
+    font-family: sans-serif;
+    color:white;
+    background: black;
+    margin: auto;
+    max-width: 70em;
+}
+
+h2{
+    margin:0;
+}
+
+
+
+a{
+    text-decoration: none;
+    font-weight: bold;
+    color: mediumseagreen;
+}
+
+p{
+    letter-spacing: 0.03em;
+}
+
+h3{
+    text-transform: uppercase;
+    background-color: mediumseagreen;
+    padding: 0.3em 0.3em 0.3em 0.3em;
+    width: 25%;
+    color: white;
+    letter-spacing: 0.05em;
+}
+
+
+.navigation ul{
+    list-style-type: none;
+    float: right;
+    margin-top: 0;
+}
+
+.navigation li{
+    float: left;
+    margin-right: 1.5em;
+    margin-top: inherit;
+}
+
+.location p{
+    line-height: 0.5em;
+}
+
+.reviews{
+    font-style: italic;
+    font-size: 0.9em;
+    margin-top: 2em;
+}
+
+.menu{
+    clear: both;
+}
+.menu p{
+    margin: 0.5em;
+}
+.menu h4{
+    margin-bottom: 0em;
+    font-size: 1.2em;
+}
+
+.price{
+    font-style: italic;
+}
+
+.contact{
+    clear: both;
+}
+
+.desc{
+    color:mediumseagreen;
+    font-weight: bold;
+}
