@@ -18,7 +18,7 @@ img.noodle{
 
 body{
     font-family: 'Montserrat';
-    color:white;
+    color:#FFFFFF;
     margin: auto;
     max-width: 70em;
 }
@@ -32,14 +32,14 @@ h1{
 h2{
     margin:0;
     font-size: 1.7em;
-    color: mediumseagreen;
+    color:  #3cb371;
 
 }
 
 a{
     text-decoration: none;
     font-weight: bold;
-    color: mediumseagreen;
+    color:  #3cb371;
 }
 
 p{
@@ -48,10 +48,10 @@ p{
 
 h3{
     text-transform: uppercase;
-    background-color: mediumseagreen;
+    background-color: #3cb371;
     padding: 0.3em 0.3em 0.3em 0.3em;
     width: 25%;
-    color: white;
+    color: #FFFFFF;
     letter-spacing: 0.05em;
 }
 
@@ -102,6 +102,6 @@ h3{
 }
 
 .desc{
-    color:mediumseagreen;
+    color:#3cb371;
     font-weight: bold;
 }
