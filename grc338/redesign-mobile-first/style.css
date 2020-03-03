@@ -10,8 +10,8 @@ img.noodle{
 
 body{
     font-family: sans-serif;
-    color:white;
-    background: black;
+    color:#FFFFFF;
+    background: #000000;
     margin: auto;
     max-width: 70em;
 }
@@ -25,7 +25,7 @@ h2{
 a{
     text-decoration: none;
     font-weight: bold;
-    color: mediumseagreen;
+    color: #3cb371;
 }
 
 p{
@@ -34,10 +34,11 @@ p{
 
 h3{
     text-transform: uppercase;
-    background-color: mediumseagreen;
+    background-color: #3cb371
+;
     padding: 0.3em 0.3em 0.3em 0.3em;
     width: 25%;
-    color: white;
+    color: #FFFFFF;
     letter-spacing: 0.05em;
 }
 
@@ -84,6 +85,6 @@ h3{
 }
 
 .desc{
-    color:mediumseagreen;
+    color:#3cb371;
     font-weight: bold;
 }
